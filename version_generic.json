@@ -1,5 +1,5 @@
 {
     "url":  "https://raw.githubusercontent.com/nazza84/escaperoomcontroller_firmwares/main/firmware/ESP32_Generic.bin",
-    "version":  "1.2.5",
+    "version":  "1.2.6",
     "notes":  "Enabled D2D Strobo Protocol and Auto-Update"
 }
