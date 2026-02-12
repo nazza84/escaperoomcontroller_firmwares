@@ -1,5 +1,5 @@
 {
-    "version":  "1.2.6",
-    "url":  "https://raw.githubusercontent.com/nazza84/escaperoomcontroller_firmwares/main/firmware/ESP32_Generic.bin",
-    "notes":  "Enabled D2D Strobo Protocol and Auto-Update"
+    "version": "1.2.7",
+    "url": "https://raw.githubusercontent.com/nazza84/escaperoomcontroller_firmwares/main/firmware/ESP32_Generic.bin",
+    "notes": "Generic & S3 Updated (v1.2.7) - RandomCandles & Auto-Update Fixes. Candele/KC868 pending build."
 }

@@ -1,5 +1,5 @@
 {
-    "url":  "https://raw.githubusercontent.com/nazza84/escaperoomcontroller_firmwares/main/firmware/ESP32_S3.bin",
-    "version":  "1.2.6",
-    "notes":  "Enabled D2D Strobo Protocol and Auto-Update"
+    "url": "https://raw.githubusercontent.com/nazza84/escaperoomcontroller_firmwares/main/firmware/ESP32_S3.bin",
+    "version": "1.2.7",
+    "notes": "S3 Updated (v1.2.7) - RandomCandles & Auto-Update Fixes"
 }
