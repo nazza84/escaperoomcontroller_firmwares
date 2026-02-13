@@ -1,5 +1,5 @@
 {
   "url": "https://raw.githubusercontent.com/nazza84/escaperoomcontroller_firmwares/main/firmware/ESP32_Candele.bin",
   "notes": "Enabled D2D Strobo Protocol and Auto-Update",
-  "version": "1.2.13"
+  "version": "1.2.14"
 }
