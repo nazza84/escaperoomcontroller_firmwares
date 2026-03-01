@@ -1,0 +1,8 @@
+{
+  "latestVersion": "1.3.0.7",
+  "firmwareUrl": "https://github.com/nazza84/escaperoomcontroller_firmwares/releases/download/ESP32_S3-v1.3.0.7/ESP32_S3_v1.3.0.7.bin",
+  "mergedUrl": "https://github.com/nazza84/escaperoomcontroller_firmwares/releases/download/ESP32_S3-v1.3.0.7/ESP32_S3_merged_v1.3.0.7.bin",
+  "dataUrl": null,
+  "releaseNotes": "Release 1.3.0.7",
+  "publishedAt": "2026-03-01T16:15:42Z"
+}
